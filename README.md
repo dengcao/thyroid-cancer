@@ -38,9 +38,12 @@
 
 <img src="https://github.com/dengcao/thyroid-cancer/blob/main/images/15.%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E8%AE%B0%E5%BD%95.jpg?raw=true" width="70%" alt="15.无偿献血记录.jpg">
 
-<img src="https://github.com/dengcao/thyroid-cancer/blob/main/images/16.%E8%B4%B5%E6%B8%AF%E5%B8%82%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E8%8D%A3%E8%AA%89%E5%8D%A1_20240912.jpg?raw=true" width="70%" alt="16.贵港市无偿献血荣誉卡_20240912.jpg">
-
 <img src="https://github.com/dengcao/thyroid-cancer/blob/main/images/14.%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80_20240411.jpg?raw=true" width="70%" alt="14.无偿献血_20240411.jpg">
+
+#### 本人有幸获得了贵港市无偿献血荣誉卡
+通过多年持续献血，本人有幸获得了贵港市无偿献血荣誉卡。根据《贵港市无偿献血管理办法》第二十五条规定：在本市参加无偿献血并获得国家无偿献血奉献奖、国家无偿捐献造血干细胞奖和国家无偿献血志愿服务终身荣誉奖的个人可以凭相关证件，在本市范围内享受以下优待：免费游览政府投资建设A级景区等场所；到政府举办的医疗机构就诊免交普通门诊诊查费；免费乘坐城市公共交通工具。拥有次卡的好处还是很多的，具体可以参阅：[《关于进一步贯彻落实贵港市无偿献血管理办法“三免优待”政策的通知》](http://www.gxgg.gov.cn/xxgk/bmwj/t17557998.shtml)
+
+<img src="https://github.com/dengcao/thyroid-cancer/blob/main/images/16.%E8%B4%B5%E6%B8%AF%E5%B8%82%E6%97%A0%E5%81%BF%E7%8C%AE%E8%A1%80%E8%8D%A3%E8%AA%89%E5%8D%A1_20240912.jpg?raw=true" width="70%" alt="16.贵港市无偿献血荣誉卡_20240912.jpg">
 
 ## 2024年8月28日做了甲状腺全切手术
 
